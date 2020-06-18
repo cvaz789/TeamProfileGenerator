@@ -123,4 +123,3 @@ executeQuestions();
 
 
 
-var ff = TeamProfileGenerator;
