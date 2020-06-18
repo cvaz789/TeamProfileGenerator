@@ -17,5 +17,3 @@ class Manager extends Employee {
 }
 
 module.exports = Manager;
-var HH = "";
-var hh = ";"

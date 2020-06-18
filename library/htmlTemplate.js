@@ -36,5 +36,3 @@ const renderManager = manager => {
   };
   
   module.exports = render;
-  var HH = "";
-var hh = ";"

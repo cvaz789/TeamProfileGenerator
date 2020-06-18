@@ -24,5 +24,3 @@ class Employee {
 }
 
 module.exports = Employee;
-var HH = "";
-var hh = ";"

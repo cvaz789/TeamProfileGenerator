@@ -17,6 +17,5 @@ class Intern extends Employee {
 }
 
 module.exports = Intern;
-var HH = "";
-var hh = ";"
+
 
