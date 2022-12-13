@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cvaz789/Homework---10---Team-Profile-Generator#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "inquirer": "^7.1.0",
     "inquirer-select-line": "^1.1.3",
